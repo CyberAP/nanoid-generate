@@ -1,6 +1,6 @@
 # nanoid-generate
 
-Custom [nanoid generate](https://github.com/ai/nanoid#custom-alphabet-or-length) functions with predefined character sets.
+Custom [nanoid generate](https://github.com/ai/nanoid#custom-alphabet-or-length) functions with predefined character sets. Uses [nanoid-dictionary](https://github.com/CyberAP/nanoid-dictionary) as a dictionary.
 
 ## Usage
 
