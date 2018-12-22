@@ -1,0 +1,13 @@
+{
+  "name": "nanoid-generate",
+  "version": "1.0.0",
+  "description": "Nanoid generate with custom dictionaries",
+  "main": "index.js",
+  "author": "Stanislav Lashmanov <stasvarenkin@gmail.com>",
+  "license": "MIT",
+  "repository": "github:CyberAP/nanoid-generate",
+  "dependencies": {
+    "nanoid": "^2.0.0",
+    "nanoid-dictionary": "^2.0.0"
+  }
+}
