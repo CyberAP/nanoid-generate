@@ -4,14 +4,16 @@ Custom [nanoid generate](https://github.com/ai/nanoid#custom-alphabet-or-length)
 
 ## Usage
 
-Install nanoid-generate, pick a desired generator and set output string length
+Install nanoid-generate
 
 `npm i nanoid-generate -S`
+
+Then pick a desired generator and set its' output string length
 
 ```javascript
 const generate = require('nanoid-generate');
 
-const lowercaseRandomString = generate.english(10);
+const englishRandomString = generate.english(10);
 ```
 
 Or instead require a specific generator
