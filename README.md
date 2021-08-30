@@ -50,6 +50,14 @@ Uppercase English letters.
 const englishUppercase = require('nanoid-generator/uppercase');
 ```
 
+### `alphanumeric`
+
+Uppercase and lowercase English letters with numbers.
+
+```javascript
+const alphanumeric = require('nanoid-generator/alphanumeric');
+```
+
 ### `english`
 
 English alphabet.

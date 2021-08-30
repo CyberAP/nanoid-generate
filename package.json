@@ -1,6 +1,6 @@
 {
   "name": "nanoid-generate",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Nanoid generate with custom dictionaries",
   "main": "index.js",
   "author": "Stanislav Lashmanov <stasvarenkin@gmail.com>",
